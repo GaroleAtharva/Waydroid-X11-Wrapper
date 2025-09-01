@@ -72,10 +72,9 @@ cd scripts
 
 ---
 
-## ✅ Summary
+## Summary
 
 * Works for **X11 users** who want Waydroid without switching to Wayland.
-* Provides minimal scripts for **easy install, setup, and removal**.
 * Tested on Ubuntu and Debian distros.
 
 ---
